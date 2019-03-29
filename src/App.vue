@@ -21,7 +21,7 @@
 				<span class="mui-tab-label">设置</span>
 			</a>
 		</nav>
-    
+
   </div>
 </template>
 
@@ -46,4 +46,3 @@
 
 }
 </style>
-
