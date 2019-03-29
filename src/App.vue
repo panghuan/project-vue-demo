@@ -3,6 +3,9 @@
     
     <mt-header fixed title="固定在顶部"></mt-header>
 
+
+    
+
     <nav class="mui-bar mui-bar-tab">
 			<a class="mui-tab-item mui-active" href="#tabbar">
 				<span class="mui-icon mui-icon-home"></span>
