@@ -3,6 +3,11 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 
+import { Header } from 'mint-ui';
+import './libs/mui/css/mui.min.css'
+
+Vue.component(Header.name, Header);
+
 Vue.config.productionTip = false
 
 new Vue({
